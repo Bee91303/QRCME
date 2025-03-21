@@ -8,3 +8,5 @@ Nomad 3 Demo tray
 Drop Tray
 
 Fusion test file
+
+Circle Dimaond Square
